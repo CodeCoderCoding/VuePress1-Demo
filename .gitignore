@@ -1,4 +1,6 @@
 # Project exclude paths
+.idea
+
 /vuepress-01-starter/node_modules/
 /vuepress-02-config/node_modules/
 /vuepress-03-home/node_modules/
